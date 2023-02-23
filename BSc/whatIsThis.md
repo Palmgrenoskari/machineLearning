@@ -1,0 +1,3 @@
+# Fruit recognition using 3 different CNN architectures
+
+## Work in progress...
