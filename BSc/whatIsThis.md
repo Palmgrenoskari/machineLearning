@@ -10,3 +10,4 @@
     * ResNet50V2
     * VGG16
     * MobileNetV2
+* All the models are pretty much identical. Just the base of the model is different.
