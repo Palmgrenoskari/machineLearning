@@ -2,4 +2,4 @@
 
 https://youtu.be/uRQH2CFvedY?list=PLVSHX8nnJZXc_xaqXL54fGoWhddQEZHwg
 
-Just learning experience for me. I might make do little twists of my own but most of the code is from the video.
+Just a learning experience for me. I might add little twists of my own but majority of the code is from the video.
