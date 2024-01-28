@@ -1,1 +1,0 @@
-# The codes that were used in my BSc (and a little extra)
