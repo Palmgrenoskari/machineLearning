@@ -1,7 +1,7 @@
 # Basically just BSc repository, probably should rename ^
 
 ## BSc
-* The codes that I used in my BSc (3 different CNNs - fruit recognition)
+* The codes that I used in my BSc (Comparison of CNN Architectures in Fruit Recognition.)
 
 ## sandbox
 * Playground
